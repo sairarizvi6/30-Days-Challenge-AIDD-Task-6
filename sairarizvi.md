@@ -1,0 +1,5 @@
+Saira Rizvi (CMO at Gilded):
+Saira Rizvi is the Chief Marketing Officer and Partner at Gilded. She has a diverse professional background encompassing industrial engineering, investment banking, and digital marketing. She earned her MBA in Entrepreneurship and Innovation from Imperial College, University of London, and holds B.S. and M.S. degrees in Industrial Engineering from the University of Texas at Arlington. Her career includes roles as an equity analyst at UBS and a director in Credit and Market Risk, as well as founding and leading a digital marketing firm.
+
+Saira Rizvi (Real Estate Agent):
+Another Saira Rizvi is a real estate agent located in Katy, Texas. She is affiliated with REALM - Broker and REALM Properties LLC, and is a REALTOR® and a member of the National Association of REALTORS®.
