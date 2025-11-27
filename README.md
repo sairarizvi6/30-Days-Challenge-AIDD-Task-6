@@ -42,15 +42,23 @@ Open or create:
 ~/.gemini/settings.json
  
  Paste this:
+ 
 **{
+ 
   "mcpServers": {
+  
     "github": {
+    
       "httpUrl": "https://api.githubcopilot.com/mcp/",
+      
       "headers": {
+      
         "Authorization": "Bearer $GITHUB_MCP_PAT"
       }
+      
     }
   }
+  
 }**
 
 What this configuration does:
