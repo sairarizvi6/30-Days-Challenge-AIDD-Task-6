@@ -1,5 +1,22 @@
-Saira Rizvi (CMO at Gilded):
-Saira Rizvi is the Chief Marketing Officer and Partner at Gilded. She has a diverse professional background encompassing industrial engineering, investment banking, and digital marketing. She earned her MBA in Entrepreneurship and Innovation from Imperial College, University of London, and holds B.S. and M.S. degrees in Industrial Engineering from the University of Texas at Arlington. Her career includes roles as an equity analyst at UBS and a director in Credit and Market Risk, as well as founding and leading a digital marketing firm.
+**Syeda Saira Bano Rizvi** is a dedicated and forward-looking professional known for her positive attitude, adaptability and commitment to 
 
-Saira Rizvi (Real Estate Agent):
-Another Saira Rizvi is a real estate agent located in Katy, Texas. She is affiliated with REALM - Broker and REALM Properties LLC, and is a REALTOR® and a member of the National Association of REALTORS®.
+excellence.She holds a Master of Arts degree with First Stand (1st Position) from Reputed University,along with strong academic foundations in 
+
+Education,L.Science and Psychology.Throughout her educational and professional journey,she has consistently demonstrated determination,self-
+
+motivation and a result-oriented mindset With extensive experience at Pakistan International Airlines Contact Centre.
+
+**Saira** has excelled as a Customer Service and Outbound Trainer.Her expertise includes SABRE and HITTIT systems,flight scheduling,SQL reporting, 
+
+team supervision and cross-department coordination.She is highly skilled in communication problem-solving and maintaining organizational procedures 
+
+and policies.Her achievements are reflected in multiple excellence awards Like as **WOW awards** and recognition as **Employee of the Year**.
+
+Syeda Saira also possesses diverse professional qualifications,including Generative AI,Web 3.0,Metaverse,Performance Management and IT skills from 
+
+reputable institutions,Known for her leadership,creativity,reliability and strong technical abilities.She aims to continue growing in challenging 
+
+roles that offer merit-based career development and opportunities to expand her capabilities.
+
+
+
