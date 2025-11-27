@@ -1,4 +1,4 @@
-🚀 **AI-Driven Development (30-Day Challenge)**
+🚀 **AI-Driven Development (30-Days Challenge)**
 
 **Task-6**: **Connect GitHub MCP Server with Google Gemini CLI (Remote Server)**
 
