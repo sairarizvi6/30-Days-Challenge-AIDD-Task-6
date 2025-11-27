@@ -57,9 +57,8 @@ Open or create:
       }
       
     }
-  }
-  
-}**
+}
+  }**
 
 What this configuration does:
 
