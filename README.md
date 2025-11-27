@@ -56,8 +56,9 @@ Open or create:
         "Authorization": "Bearer $GITHUB_MCP_PAT"
       }
       
-    }
+      }
 }
+
   }**
 
 What this configuration does:
